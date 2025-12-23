@@ -1,6 +1,7 @@
 # Reddit UI Assignment
 
 🔗 **Live Demo**: [https://reddit-ui-assignment.vercel.app](https://reddit-ui-assignment.vercel.app)
+
 🔗 **GitHub Repository**: [https://github.com/22L31A0497/reddit-ui-assignment](https://github.com/22L31A0497/reddit-ui-assignment)
 
 ---
