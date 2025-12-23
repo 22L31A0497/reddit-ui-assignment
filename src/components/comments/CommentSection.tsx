@@ -142,9 +142,17 @@ export default function CommentSection({ postId, initialComments }: Props) {
 
             {isOpen && (
               <>
-                <p className="comment-content">
-                  {comment.content}
-                </p>
+                <p
+  style={{
+    marginTop: "6px",
+    marginLeft: "30px",
+    color: "#e5e7eb",   // light gray, readable in dark mode
+    lineHeight: "1.5",
+  }}
+>
+  {comment.content}
+</p>
+
 
                 <button
                   className="reply-btn"
